@@ -9,6 +9,7 @@ this program and nothing else.
 Author: Amy McGovern
 """
 
+
 try:
     from bluepy.btle import Scanner, DefaultDelegate
     BLEAvailable = True

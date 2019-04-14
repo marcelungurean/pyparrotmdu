@@ -1,0 +1,6 @@
+FOUND A MAMBO!
+Device d0:3a:a9:1f:e6:22 (random), RSSI=-41 dB
+  Complete Local Name = Mambo_675369
+FOUND A MAMBO!
+Device d0:3a:d1:1e:e6:25 (random), RSSI=-42 dB
+  Complete Local Name = Mambo_748937
